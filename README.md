@@ -38,6 +38,7 @@
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:6px 4px">
 </p>
 
+![contribution graph](images/contribution-graph.png)
 
 
 
