@@ -32,7 +32,6 @@ jobs:
            token: ${{ secrets.GRAPH_QL }}
            viewby: day
            farback: 31
-           owner: ${{ github.repository_owner }}
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Updating Contribution Graph
