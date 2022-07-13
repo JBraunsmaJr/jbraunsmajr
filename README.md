@@ -42,7 +42,7 @@
 ![contribution graph](images/contribution-graph.png)
 </p>
 
-![](https://komarev.com/ghpvc/?username=jbraunsmajr&color=blue)
+![](https://komarev.com/ghpvc/?username=jbraunsmajr&color=blue&style=for-the-badge)
 
 
 
