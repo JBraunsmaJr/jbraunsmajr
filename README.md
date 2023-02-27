@@ -1,5 +1,9 @@
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
+<p align="center">
+  <a href="https://jbraunsmajr.github.io/Brawny/" target="_blank">View Portfolio (using WASM)</a>
+</p>
+
 <p align="center">I enjoy building</p>
 <p align="center">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/tools.svg" alt="tools" style="vertical-align:top; margin: 6px 4px">
