@@ -2,6 +2,7 @@
 
 <p align="center">
   <a href="https://jbraunsmajr.github.io/Brawny/" target="_blank">View Portfolio (using WASM)</a>
+  <br>
   <a href="https://jbraunsmajr.github.io/BadgersBlog/" target="_blank">View Blog</a>
 </p>
 
